@@ -1,0 +1,6 @@
+c:\users\kumarmo2\documents\visual studio 2015\Projects\BricksGame2\BricksGame2\bin\Debug\BricksGame2.exe.config
+c:\users\kumarmo2\documents\visual studio 2015\Projects\BricksGame2\BricksGame2\bin\Debug\BricksGame2.exe
+c:\users\kumarmo2\documents\visual studio 2015\Projects\BricksGame2\BricksGame2\bin\Debug\BricksGame2.pdb
+c:\users\kumarmo2\documents\visual studio 2015\Projects\BricksGame2\BricksGame2\obj\Debug\BricksGame2.csprojResolveAssemblyReference.cache
+c:\users\kumarmo2\documents\visual studio 2015\Projects\BricksGame2\BricksGame2\obj\Debug\BricksGame2.exe
+c:\users\kumarmo2\documents\visual studio 2015\Projects\BricksGame2\BricksGame2\obj\Debug\BricksGame2.pdb
